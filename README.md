@@ -1,6 +1,8 @@
 # LeetCode Solutions by [tannuiscoding](https://github.com/tannuiscoding)
 
-![LeetCode Banner](./leetcode.png) 
+<p align="center">
+  <img src="./leetcode.png" alt="LeetCode Banner" width="600">
+</p>
 
 Welcome to my LeetCode solutions repository! This repo contains my solutions to various LeetCode problems, implemented in a clean and efficient manner. It's a growing collection, updated regularly as I tackle new challenges on LeetCode.
 
@@ -19,7 +21,7 @@ Welcome to my LeetCode solutions repository! This repo contains my solutions to 
 3. Open the solution file to explore the implementation.
 
 ## 📊 Progress
-- Problems solved: `20` (Keep this updated based on your current count)
+- Problems solved: `20`
 - Topics covered: Arrays, Strings, Dynamic Programming, Graphs, Trees, and more.
 
 ## 🤝 Contributions
@@ -31,3 +33,7 @@ Feel free to fork this repository, explore the solutions, and suggest optimizati
 - **LinkedIn**: [tchoudhary1611](https://linkedin.com/in/tchoudhary1611)
 
 ---
+
+### Changes Made
+- Used `<p>` and `<img>` HTML tags to center the image and set its width to `600px`.
+- This ensures a balanced layout for better readability and aesthetics.
